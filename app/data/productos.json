@@ -1,32 +1,92 @@
 [
   {
-    "sku": "TEC-001",
-    "marca": "Logitech",
-    "nombre": "Mouse inalámbrico MX Master",
-    "precio": 349900,
-    "foto": "images/mouse-mx-master.jpg",
-    "stock": 12,
+    "sku": "CEL-001",
+    "marca": "Genérico",
+    "nombre": "Celular",
+    "precio": 599000,
+    "foto": "images/101.jpg",
+    "stock": 10,
     "activo": true,
-    "categoria": "Periféricos"
+    "categoria": "Celulares"
   },
   {
-    "sku": "TEC-002",
-    "marca": "Kingston",
-    "nombre": "Memoria USB 64GB",
-    "precio": 39900,
-    "foto": "images/usb-kingston-64gb.jpg",
-    "stock": 40,
+    "sku": "CEL-002",
+    "marca": "Samsung",
+    "nombre": "Celular Samsung",
+    "precio": 899000,
+    "foto": "images/104.jpg",
+    "stock": 10,
     "activo": true,
-    "categoria": "Almacenamiento"
+    "categoria": "Celulares"
   },
   {
-    "sku": "AUD-001",
-    "marca": "Sony",
-    "nombre": "Audífonos WH-1000XM4",
-    "precio": 1199000,
-    "foto": "images/audifonos-sony.jpg",
+    "sku": "POR-001",
+    "marca": "Genérico",
+    "nombre": "Computador portátil",
+    "precio": 1899000,
+    "foto": "images/201.jpg",
+    "stock": 8,
+    "activo": true,
+    "categoria": "Portátiles"
+  },
+  {
+    "sku": "POR-002",
+    "marca": "Genérico",
+    "nombre": "Portátil con Forza Horizon 5",
+    "precio": 2599000,
+    "foto": "images/203.jpg",
+    "stock": 5,
+    "activo": true,
+    "categoria": "Portátiles"
+  },
+  {
+    "sku": "POR-003",
+    "marca": "Genérico",
+    "nombre": "Portátil con Windows 11",
+    "precio": 2199000,
+    "foto": "images/207.jpg",
+    "stock": 6,
+    "activo": true,
+    "categoria": "Portátiles"
+  },
+  {
+    "sku": "PC-001",
+    "marca": "Lenovo",
+    "nombre": "Computador Lenovo",
+    "precio": 2399000,
+    "foto": "images/208.jpg",
+    "stock": 4,
+    "activo": true,
+    "categoria": "Computadores"
+  },
+  {
+    "sku": "TAB-001",
+    "marca": "Genérico",
+    "nombre": "Tablet rosada",
+    "precio": 499000,
+    "foto": "images/301.jpg",
+    "stock": 10,
+    "activo": true,
+    "categoria": "Tablets"
+  },
+  {
+    "sku": "TAB-002",
+    "marca": "Genérico",
+    "nombre": "Tablet Chapter One",
+    "precio": 449000,
+    "foto": "images/302.jpg",
     "stock": 0,
     "activo": true,
-    "categoria": "Audio"
+    "categoria": "Tablets"
+  },
+  {
+    "sku": "TAB-003",
+    "marca": "Genérico",
+    "nombre": "Tablet negra",
+    "precio": 549000,
+    "foto": "images/304.jpg",
+    "stock": 6,
+    "activo": true,
+    "categoria": "Tablets"
   }
 ]
